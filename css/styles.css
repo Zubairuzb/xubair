@@ -1,0 +1,62 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+h1{
+	border: 1px solid green;
+	text-align: center;
+	font: 40px bold tahoma;
+	margin: 30px;
+	background: #2ecc71;
+	padding: 30px;
+	border-radius: 10px;
+	color: green;
+}
+
+body{
+	background-color: #cccccc;
+	border: 2px solid green;
+	
+		
+}
+p{
+	font: 26px bold verdana;
+	color: green;
+	margin: 20px;
+}
+.side{
+	background: #7f8c8d;
+	padding: 20px;
+	width: 300px;
+	font: 14px tahoma;
+	border: 2px solid blue;
+	border-radius: 15px;
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	
+}
+.bfooter{
+	display:block;
+	clear:both;
+	border-top: 1px solid green;
+	font: 12px tahoma;
+	color: green;
+	text-align: center;
+
+}
+h3{
+	color: blue;
+	font: 20px bold tahoma;
+}
+.ctime{
+	background: #1abc9c;
+	padding: 10px;
+	font: 20px bold tahoma;
+	width:  300px;
+	margin-left: 150px;
+	color: purple;
+}
